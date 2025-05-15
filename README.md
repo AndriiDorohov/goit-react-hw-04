@@ -94,7 +94,7 @@ For notifications, use the [React Hot Toast](https://react-hot-toast.com/) libra
 The `ImageGallery` component is a list of image cards that creates a DOM element with the following structure.
 ```jsx
 <ul>
-	{/* Набір елементів списку із зображеннями */}
+    {/* A set of list items with images */}
 	<li>
 		<div>
 		  <img src="" alt="" />
